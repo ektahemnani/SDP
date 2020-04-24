@@ -1,0 +1,129 @@
+
+.navbar{
+    background: #010c0f;
+
+}
+
+
+.navbar-nav{
+    padding-left:70px;
+}
+.navbar-brand{
+    padding-left:30px;
+    font-weight: 700;
+    font-size:30px;
+}
+.nav-item{
+    padding-left:15px;
+    font-size:20px;
+}
+.jumbotron{
+    margin-top:20px;
+    border-radius:10%;
+}
+.intro_content{
+    margin-left:50px;
+}
+.about-part{
+    background-color: rgb(248, 237, 223);
+}
+.contact-form{
+	position:relative;
+	padding-bottom:30px;
+}
+.contact-form div{
+	padding:5px 0;
+}
+.contact-form span{
+	display:block;
+	font-family: 'Roboto', sans-serif;
+	font-size: 0.9em;
+	padding-bottom:5px;
+	color: #012231;
+	text-transform: uppercase;
+}
+.contact-form input[type="text"],.contact-form textarea{
+		   padding: 8px;
+			display: block;
+			width: 98%;
+			border: none;
+			outline: none;
+			color: #464646;
+			font-size: 0.8125em;
+			font-family: Arial, Helvetica, sans-serif;
+			border: 1px solid rgba(85, 85, 85, 0.19);
+			-webkit-appearance:none;
+}
+.contact-form textarea{
+		resize:none;
+		height:120px;		
+}
+.mybutton{
+	font-family: 'Roboto', sans-serif;
+	background: #012231;
+	color: #d6d6d6;
+	padding: 15px 40px;
+	font-size: 0.875em;
+	text-transform: uppercase;
+	display: block;
+	transition: 0.5s ease;
+	-o-transition: 0.5s ease;
+	-webkit-transition: 0.5s ease;
+	cursor:pointer;
+	border:none;
+}
+.mybutton:hover{
+	background: #00B895;
+	color: #FFF;
+}
+.company_address{
+	padding-top:26px;
+}
+.company_address p{
+	font-size: 0.875em;
+	color: rgba(85, 81, 81, 0.84);
+	font-family: Arial, Helvetica, sans-serif;
+	line-height: 1.8em;
+}
+.company_address p span{
+	text-decoration:underline;
+	color:#012231;
+	cursor:pointer;
+	transition: 0.5s ease;
+	-o-transition: 0.5s ease;
+	-webkit-transition: 0.5s ease;
+}
+.company_address p span:hover{
+	color:#00B895;
+}
+.contact-form{
+    background-color: aliceblue;
+}
+footer{
+    background: #187a92;
+}
+
+.box-odd{
+    background: #aeb0f3
+}
+.box-even{
+    background: #caf36a   
+}
+.box-part{
+    margin-top:20px;
+    
+}
+.text{
+    height:550px;
+    width:530px;
+    background: #6dcefc;
+}
+.inner-text{
+    padding-left:20px;
+}
+.content-rounded{
+    margin-top:20px;
+    border-radius: 90px;
+    overflow: hidden;
+    margin-bottom: 30px;
+}
